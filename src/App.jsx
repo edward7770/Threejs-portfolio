@@ -2,7 +2,6 @@ import "./App.css";
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import Scene from "./Body";
-// import Sky from "./Setup/Sky";
 import Lights from "./Setup/Lights";
 import { Loader, Preload, Stars } from "@react-three/drei";
 import ReactMark from './ReactMark';
